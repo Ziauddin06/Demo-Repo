@@ -1,4 +1,10 @@
 # Databricks notebook source
+# MAGIC %sql
+# MAGIC SELECT 'Just master' AS name
+# MAGIC
+
+# COMMAND ----------
+
 print("Hello World!")
 
 # COMMAND ----------
